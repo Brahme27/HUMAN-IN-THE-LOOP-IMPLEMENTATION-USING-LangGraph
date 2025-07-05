@@ -1,0 +1,11 @@
+ipykernel # Not a part of project, but required to run Jupyter notebooks
+langchain
+langgraph
+langchain-core
+langchain-community
+python-dotenv
+langchain-openai
+langchain-groq
+arxiv
+wikipedia
+langgraph-cli[inmem] #For langGraph studio
